@@ -1,0 +1,60 @@
+.. ocena documentation master file, created by
+   sphinx-quickstart on Tue Nov  4 11:23:24 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+ocena documentation
+===================
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+        
+tom I  Rozwój internetu
+=============================
+
+rodzial I
+---------
+
+Internet, który początkowo był narzędziem wojskowym i naukowym, dziś stał się podstawą funkcjonowania nowoczesnego
+świata. Od momentu jego powstania w drugiej połowie XX wieku sieć przeszła ogromną ewolucję — od prostych stron 
+tekstowych do zaawansowanych platform komunikacyjnych, sklepów internetowych i usług chmurowych.
+Dzięki powszechnemu dostępowi do Internetu miliony ludzi mogą pracować, uczyć się i utrzymywać kontakty niezależnie 
+od miejsca zamieszkania.     
+
+tom II  Społeczne korzyści i zagrożenia
+=============================================
+
+rozdzial I
+----------
+
+Internet umożliwił szybki przepływ informacji, rozwój edukacji online oraz swobodę wypowiedzi. Wspiera też 
+działalność społeczną, pozwalając organizacjom pozarządowym i ruchom obywatelskim docierać do szerokiego grona 
+odbiorców.
+Jednocześnie jednak niesie ze sobą poważne wyzwania — takie jak dezinformacja, cyberprzemoc czy uzależnienie 
+od mediów społecznościowych. Wirtualny świat, choć pełen możliwości, może stać się również źródłem izolacji i 
+problemów psychicznych.
+
+
+tom  III  Przyszłość komunikacji cyfrowej
+==============================================
+
+rodzial I
+---------
+W najbliższych latach Internet będzie rozwijał się w kierunku jeszcze większej integracji z codziennym życiem. 
+Sztuczna inteligencja, Internet Rzeczy (IoT) i technologie 5G pozwolą na błyskawiczne przesyłanie danych i 
+automatyzację wielu procesów.
+Kluczowym wyzwaniem stanie się jednak zachowanie równowagi między wygodą a prywatnością oraz między globalną 
+łącznością a odpowiedzialnym korzystaniem z informacji.
+
+rodzial II  lista
+------------------
+ *Zmiany klimatu i ich wpływ na człowieka*
+ *Rola sztucznej inteligencji w codziennym życiu*
+ *Bezpieczeństwo w Internecie*
+ *Podbój kosmosu – od przeszłości do przyszłości*
+ *Zdrowe odżywianie w XXI wieku*
+ *Wpływ stresu na zdrowie psychiczne*
